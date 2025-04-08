@@ -1,0 +1,8 @@
+projectName: private-github
+repositories:
+  - name: student
+    url: git@github.com:mishhgun01/student.git
+    branch: master
+  - name: patterns
+    url: git@github.com:mishhgun01/Patterns2023.git
+    branch: master 
